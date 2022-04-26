@@ -1,0 +1,5 @@
+# .gitigonre file for terraform templates
+
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
